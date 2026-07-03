@@ -6,5 +6,10 @@ jobs:
         pom-location: pom.xml
         name: clean test
         goals: clean test
+  Job2:
+    name: Job 2
+    integrations:
+      - NpmRegistry: NpmRegistry_0
+      - Docker: Docker_0
 parameters:
   level: pipeline
