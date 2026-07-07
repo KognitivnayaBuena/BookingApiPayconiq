@@ -21,5 +21,7 @@ jobs:
     name: Job 5
   Job7:
     name: Job 7
+  Job8:
+    name: Job 8
 parameters:
   level: pipeline
