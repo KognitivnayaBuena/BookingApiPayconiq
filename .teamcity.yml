@@ -13,15 +13,5 @@ jobs:
       - Docker: Docker_0
   Job3:
     name: Job 3
-  Job4:
-    name: Job 4
-  Job6:
-    name: Job 6
-  Job5:
-    name: Job 5
-  Job7:
-    name: Job 7
-  Job8:
-    name: Job 8
 parameters:
   level: pipeline
