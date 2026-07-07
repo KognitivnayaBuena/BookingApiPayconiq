@@ -11,5 +11,7 @@ jobs:
     integrations:
       - NpmRegistry: NpmRegistry_0
       - Docker: Docker_0
+  Job3:
+    name: Job 3
 parameters:
   level: pipeline
