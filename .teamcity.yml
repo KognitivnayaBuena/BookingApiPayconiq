@@ -13,5 +13,7 @@ jobs:
         pom-location: pom.xml
         name: clean test
         goals: clean test
+  Job3:
+    name: Job 3
 parameters:
   level: pipeline
