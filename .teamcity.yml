@@ -15,5 +15,7 @@ jobs:
         goals: clean test
   Job3:
     name: Job 3
+  Job4:
+    name: Job 4
 parameters:
   level: pipeline
